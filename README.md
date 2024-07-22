@@ -3,7 +3,7 @@ A collection of OCaml Codes and their outputs produced as I was learning OCaml.<
 
 
 ### Future??
-I do plan to keep on adding more. Feel free to collaborate and raise issues. </br> </br>
+I do plan to keep on adding more codes. Feel free to collaborate and raise issues. </br> </br>
 
 ### Outputs
 I also add screenshots of the outputs of my outputs.</br>
